@@ -8,6 +8,7 @@ const App = () => {
       <Text>hello suman!</Text>
       <Text>sumangt</Text>
       <Text>sumandharavath</Text>
+      <Text>sumandharavath Added</Text>
     </View>
   );
 };
