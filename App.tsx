@@ -3,13 +3,18 @@ import React from 'react';
 
 const App = () => {
   return (
-    <View>
-      <Text>App</Text>
-      <Text>hello suman!</Text>
-      <Text>sumangt</Text>
-      <Text>sumandharavath</Text>
-      <Text>sumandharavath Added</Text>
-    </View>
+    <>
+      <View>
+        <Text>App</Text>
+        <Text>hello suman!</Text>
+        <Text>sumangt</Text>
+        <Text>sumandharavath</Text>
+        <Text>sumandharavath Added</Text>
+      </View>
+      <View>
+        <Text>{'Stashed content.............'}</Text>
+      </View>
+    </>
   );
 };
 
